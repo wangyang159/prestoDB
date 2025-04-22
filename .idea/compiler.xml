@@ -9,5 +9,8 @@
         <module name="fun" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="build" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
